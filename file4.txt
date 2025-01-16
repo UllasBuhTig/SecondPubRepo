@@ -1,2 +1,3 @@
 This is some woodo stuff
 new line in file4
+This is just a bugfix
